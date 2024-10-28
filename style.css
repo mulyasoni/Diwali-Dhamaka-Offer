@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+.red {
+    border: 2px solid red;
+}
+
+.gold {
+    border: 2px solid goldenrod;
+}
+
+.height {
+    min-height: 100vh;
+}
+
+.card-fc-1{
+    cursor: pointer;
+}
+
+.card-fc-1:hover {
+    scale: 1.1;
+    transition: .3s all linear;
+}
+
+.card-fc-2{
+    cursor: pointer;
+}
+
+.card-fc-2:hover {
+    scale: 1.1;
+    transition: .3s all linear;
+}
+
+.card-fc-3{
+    cursor: pointer;
+}
+
+.card-fc-3:hover {
+    scale: 1.1;
+    transition: .3s all linear;
+}
+
+.height-cat{
+    min-height: 160vh;
+}
